@@ -43,7 +43,7 @@ restaurant-website/
 # 🚀 How to Run Locally
 
 1.Clone the repository:
-git clone https://github.com/your-username/restaurant-landing-page.git
+git clone https://github.com/ShashankPonna/Restaurant-Website-Landing-Page.git
 
 2.Navigate to the project folder:
 cd restaurant-landing-page
